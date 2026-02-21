@@ -1,4 +1,3 @@
-
 module.exports = {
   SESSION_ID: "",  // add session Id here
   
