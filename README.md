@@ -18,12 +18,12 @@
     0 0 36px #d896ff,
     0 0 48px #ab47bc;
   padding: 12px 0;
-"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Jawad TechX
+"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by cabdiraxmaan
 </div>
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-✨_KHAN--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
+  <img src="https://img.shields.io/badge/-✨_FLASH--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
 </h1>
 </p>
 </p>
@@ -65,7 +65,7 @@
 
   <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #ff00ff;">
     <p style="color: #00ffff; font-size: 16px;">🚀 First, star & fork the repo using the button below:</p>
-    <a href='https://github.com/JawadYT36/KHAN-MD/fork' target="_blank">
+    <a href='https://github.com/cabdiraxmaab/FLASH-MD/fork' target="_blank">
       <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
     </a>
   </div>
@@ -89,20 +89,20 @@
 
 ## 🚀 Pairing Dashboard
 
-> Securely link your device using the official KHAN-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
+> Securely link your device using the official FLASH-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
 
  <div align="center">
 
 ### 🔥 SHORT SESSION ID
 <p align="center">
-  <a href="https://khanmd-pair.onrender.com/">
+  <a href="https://Flashmd-pair.onrender.com/">
     <img src="https://img.shields.io/badge/🚀_PAIR_GENRATER_1-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1e1b4b" alt="Short Session"/>
   </a>
 </p>
 
 ### 🌊 LONG SESSION ID
 <p align="center">
-  <a href="https://khanxmd-pair.onrender.com/">
+  <a href="https://Flashxmd-pair.onrender.com/">
     <img src="https://img.shields.io/badge/💫_PAIR_GENRATER_2-4F46E5?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1e1b4b" alt="Long Session"/>
   </a>
 </p>
@@ -113,29 +113,29 @@
 
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>FLASH-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
   <table>
     <tr>
       <!-- Heroku (with rocket logo on left) -->
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/KHAN-XD" target="_blank">
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/cabdiraxmaab/FLASH-XD" target="_blank">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a></td>
       <!-- Replit -->
-      <td><a href="https://replit.com/github/JawadTechXD/KHAN-XD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://replit.com/github/cabdiraxmaab/FLASH-XD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <!-- Koyeb -->
-      <td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/JawadTechXD/KHAN-XD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/cabdiraxmaab/FLASH-XD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <!-- Railway -->
-      <td><a href="https://railway.app/new/template?template=https://github.com/JawadTechXD/KHAN-XD" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new/template?template=https://github.com/cabdiraxmaab/FLASH-XD" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <!-- Render (blue color theme) -->
-      <td><a href="https://render.com/deploy?repo=https://github.com/JawadTechXD/KHAN-XD" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>
+      <td><a href="https://render.com/deploy?repo=https://github.com/cabdiraxmaab/FLASH-XD" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>
       <!-- Netlify -->
-      <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/JawadTechXD/KHAN-XD" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/cabdiraxmaab/FLASH-XD" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
 </div>
@@ -175,7 +175,7 @@
 
 ---
 
-## KHAN-MD FEATURES
+## FLASH-MD FEATURES
 
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Features&style=for-the-badge&url=https://api.example.com/khanmd&query=$.features_count&suffix=%20Active" alt="Features"/>
@@ -234,7 +234,7 @@
 ## Credits ⚒️
 
 <p><strong>Creator:</strong><br>
-JawadTechXD (Official Creator)</p>
+abdiraxmaan (Official Creator)</p>
 
 <p><strong>Co-Developer:</strong><br>
 JawadYT36 ( Helper )</p>
